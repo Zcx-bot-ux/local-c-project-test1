@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Framework_Library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../home1/framework/codegen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/framework/ejbgenerator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/framework/sync.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

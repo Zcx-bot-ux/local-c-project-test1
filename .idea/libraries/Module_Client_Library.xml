@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Module_Client_Library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../home1/modules/uapbd/client/classes" />
+      <root url="jar://$PROJECT_DIR$/../home1/modules/cmp/client/lib/uicmp_settlementmanagement.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/modules/epmp/client/lib/uiepmp_reconciliation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/modules/epmp/client/lib/uiepmp_vouch.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/modules/fbm/client/lib/uifbm_fbm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/modules/imag/client/lib/uiimag_imag_ws.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/modules/obm/client/lib/uiobm_obm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/modules/sscwo/client/lib/uisscwo_freebill.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/modules/tmpub/client/lib/uitmpub_pub.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/modules/tmpub/client/lib/uitmpub_tmbd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../home1/modules/uapbd/client/classes" />
+    </SOURCES>
+  </library>
+</component>

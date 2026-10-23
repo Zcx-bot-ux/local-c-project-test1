@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7153340-6469-48d5-8edc-2c46784198cf" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\work\repo" />
+        <option name="mavenHome" value="C:\Drive\java\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Drive\java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3FfCQZBj6XaQEoL0YFvZ7qMYNtK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;YonBuilder Premium服务.codefactory - 中间件.executor&quot;: &quot;Run&quot;,
+    &quot;YonBuilder Premium服务.uapbd - 中间件.executor&quot;: &quot;Run&quot;,
+    &quot;YonBuilder Premium服务.uapbd2 - 中间件.executor&quot;: &quot;Run&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;jdk.selected.NCCModule&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work/code/changlong/code/houduan/finbus/c-scm-la-labill-be&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\uapbd\uapbd\META-INF" />
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\uapbd\uapbd\src\public\nc\syncpro" />
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\uapbd\uapbd\src\public" />
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\uapbd2\uapbd2\src\public" />
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\codefactory\codeFactory\src\public\vo\mmsfc\operationrep\entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\ncc_material_sync_demo\src\controller" />
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\uapbd\uapbd\src\public\controller" />
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\codefactory\codeFactory\src\public\nc\vo\mmsfc\operationrep\entity" />
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\codefactory\codeFactory\src\public" />
+      <recent name="C:\Drive\work\yongyou\projectpackage\innercode\codefactory\codeFactory\src\public\nc\vo\mmsfc\operationrep\enumeration" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="nccloud.api.basebd.QueryStaffLinkBank" />
+      <recent name="nc.syncpro.servlet" />
+      <recent name="" />
+      <recent name="nccloud.web.mmsfc.operationrep.action" />
+    </key>
+  </component>
+  <component name="RunManager" selected="YonBuilder Premium服务.uapbd - 中间件">
+    <configuration name="codefactory - 中间件" type="NCCloud" factoryName="NCCloud_Server">
+      <module name="codefactory" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uapbd - 中间件" type="NCCloud" factoryName="NCCloud_Server">
+      <module name="uapbd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uapbd2 - 中间件" type="NCCloud" factoryName="NCCloud_Server">
+      <module name="uapbd2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c7153340-6469-48d5-8edc-2c46784198cf" name="更改" comment="" />
+      <created>1782456722825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782456722825</updated>
+      <workItem from="1782456723162" duration="2695000" />
+      <workItem from="1782461611631" duration="1359000" />
+      <workItem from="1782693613960" duration="8152000" />
+      <workItem from="1782741933946" duration="169000" />
+      <workItem from="1782742128766" duration="597000" />
+      <workItem from="1782779934019" duration="16282000" />
+      <workItem from="1782809328127" duration="5626000" />
+      <workItem from="1782867737645" duration="3765000" />
+      <workItem from="1782871677596" duration="1985000" />
+      <workItem from="1782873690313" duration="13427000" />
+      <workItem from="1782952730859" duration="13047000" />
+      <workItem from="1783039008565" duration="24216000" />
+      <workItem from="1783304649617" duration="17679000" />
+      <workItem from="1783387557160" duration="416000" />
+      <workItem from="1783491041167" duration="4457000" />
+      <workItem from="1783671585591" duration="817000" />
+      <workItem from="1783909575837" duration="21538000" />
+      <workItem from="1784507788671" duration="1364000" />
+      <workItem from="1784509234862" duration="15431000" />
+      <workItem from="1784594366781" duration="25604000" />
+      <workItem from="1784680439913" duration="17527000" />
+      <workItem from="1784705610510" duration="6927000" />
+      <workItem from="1784767374409" duration="19233000" />
+      <workItem from="1784796926349" duration="2293000" />
+      <workItem from="1784856868976" duration="6015000" />
+      <workItem from="1785113210938" duration="9106000" />
+      <workItem from="1785130943744" duration="1545000" />
+      <workItem from="1785133900772" duration="3235000" />
+      <workItem from="1785142418177" duration="2491000" />
+      <workItem from="1785200525079" duration="183000" />
+      <workItem from="1785221035394" duration="1120000" />
+      <workItem from="1785222272099" duration="5345000" />
+      <workItem from="1785285484801" duration="1112000" />
+      <workItem from="1785287523986" duration="19045000" />
+      <workItem from="1785314265710" duration="4075000" />
+      <workItem from="1785332090240" duration="2451000" />
+      <workItem from="1785335619138" duration="1229000" />
+      <workItem from="1785371646257" duration="21846000" />
+      <workItem from="1785458326836" duration="13880000" />
+      <workItem from="1785480068598" duration="10437000" />
+      <workItem from="1785717313445" duration="17753000" />
+      <workItem from="1785803794720" duration="20521000" />
+      <workItem from="1785890140593" duration="15173000" />
+      <workItem from="1786005366731" duration="2385000" />
+      <workItem from="1786063618227" duration="6636000" />
+      <workItem from="1786096139026" duration="73000" />
+      <workItem from="1786532502091" duration="1344000" />
+      <workItem from="1786949113454" duration="24000" />
+      <workItem from="1791509893457" duration="78000" />
+      <workItem from="1791511445645" duration="7023000" />
+      <workItem from="1791537733879" duration="3727000" />
+      <workItem from="1791616783807" duration="24000" />
+      <workItem from="1791789086092" duration="32000" />
+      <workItem from="1791856290567" duration="19511000" />
+      <workItem from="1791890791583" duration="13000" />
+      <workItem from="1791902250625" duration="3899000" />
+      <workItem from="1791938710408" duration="8471000" />
+      <workItem from="1791986875681" duration="4766000" />
+      <workItem from="1792025094817" duration="9904000" />
+      <workItem from="1792129565712" duration="563000" />
+      <workItem from="1792135372721" duration="6888000" />
+      <workItem from="1792371550033" duration="3227000" />
+      <workItem from="1792568798583" duration="5285000" />
+      <workItem from="1792631434295" duration="386000" />
+      <workItem from="1792638621225" duration="5490000" />
+      <workItem from="1792677615371" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/modules/mmpub/lib/pubmmpub_mmpub.jar!/nc/vo/mmpub/util/BillBodySortUtils.class</url>
+          <line>26</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/modules/mmpub/lib/pubmmpub_mmpub.jar!/nc/vo/mmpub/util/BillBodySortUtils.class</url>
+          <line>27</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codefactory/codeFactory/src/client/nccloud/web/mmsfc/operationrep/action/OprepCardQueryAction.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/external/lib/uimmsfc_nccloud.jar!/nccloud/web/mmsfc/operationrep/action/OprepEditAction.class</url>
+          <line>34</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/external/lib/uimmsfc_nccloud.jar!/nccloud/web/mmsfc/operationrep/action/OprepEditAction.class</url>
+          <line>43</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/external/lib/uimmsfc_nccloud.jar!/nccloud/web/mmsfc/operationrep/action/OprepEditAction.class</url>
+          <line>44</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codefactory/codeFactory/src/client/nccloud/web/mmsfc/operationrep/action/OprepCardQueryAction.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codefactory/codeFactory/src/client/nccloud/web/mmsfc/operationrep/action/OprepCardQueryAction.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codefactory/codeFactory/src/client/nccloud/web/mmsfc/operationrep/action/OprepCardQueryAction.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/modules/mmsfc/META-INF/lib/mmsfc_operationrep.jar!/nc/impl/mmsfc/operationrep/OprepQueryImpl.class</url>
+          <line>65</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codefactory/codeFactory/src/private/nc/bs/mmsfc/operationrep/bo/oprepqry/OprepBillQuery.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codefactory/codeFactory/src/client/nccloud/web/mmsfc/operationrep/action/OprepCardQueryAction.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/codefactory/codeFactory/src/private/nc/bs/mmsfc/operationrep/bo/oprepqry/OprepBillQuery.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/modules/mmsfc/META-INF/lib/mmsfc_operationrep.jar!/nc/impl/mmsfc/operationrep/OprepQueryImpl.class</url>
+          <line>67</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/modules/mmsfc/META-INF/lib/mmsfc_operationrep.jar!/nc/bs/mmsfc/framework/base/MMGcBillInsertBP.class</url>
+          <line>17</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/modules/mmsfc/META-INF/lib/mmsfc_operationrep.jar!/nc/bs/mmsfc/operationrep/rule/pub/OprepBillCheckRule.class</url>
+          <line>57</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../home1/modules/mmsfc/META-INF/lib/mmsfc_operationrep.jar!/nc/bs/mmsfc/operationrep/rule/pub/OprepBillCheckRule.class</url>
+          <line>41</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/uapbd/uapbd/src/private/nc/syncpro/servlet/OrgChartServlet.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/uapbd/uapbd/src/private/nc/syncpro/servlet/WarehouseQueryServlet.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/uapbd/uapbd/src/private/nc/syncpro/servlet/WarehouseQueryServlet.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/uapbd/uapbd/src/private/nc/syncpro/servlet/OrderSaveServlet.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="19" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="com.amazon.ion.impl.IonUTF8$InvalidUnicodeCodePoint" package="com.amazon.ion.impl" />
+          <option name="timeStamp" value="75" />
+        </breakpoint>
+        <breakpoint suspend="NONE" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="76" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="nc.vo.pubapp.pattern.exception.PubAppBusinessException" package="nc.vo.pubapp.pattern.exception" />
+          <option name="timeStamp" value="97" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/codefactory/arap/src/public/nc/itf/ext/lc/ILCArapBillService.java</url>
+          <line>8</line>
+          <properties class="nc.itf.ext.lc.ILCArapBillService" method="savePayableBill">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="nc.vo.mmsfc.operationrep.entity.AggOprepVO" memberName="children" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="NCCloud">
+        <watch expression="sql" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

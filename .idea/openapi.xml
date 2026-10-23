@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="openapi">
+    <option name="configVOListJsonStr" value="[{&quot;homeversion&quot;:&quot;2105&quot;,&quot;configname&quot;:&quot;&quot;,&quot;serverip&quot;:&quot;127.0.0.1&quot;,&quot;serverPort&quot;:&quot;80&quot;,&quot;busicode&quot;:&quot;&quot;,&quot;appSecret&quot;:&quot;&quot;,&quot;usercode&quot;:&quot;&quot;,&quot;appid&quot;:&quot;&quot;,&quot;pubSecret&quot;:&quot;&quot;}]" />
+  </component>
+</project>

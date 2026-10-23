@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Middleware_Library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../home1/middleware/classes" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/comp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/ecj-4.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/fwejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/j2ee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/javaee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/jdmkrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/mw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/nt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/starter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../home1/middleware/tcsrc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../home1/middleware/classes" />
+    </SOURCES>
+  </library>
+</component>
